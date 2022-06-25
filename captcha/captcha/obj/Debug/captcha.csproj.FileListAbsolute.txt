@@ -1,0 +1,11 @@
+E:\soursevs2022\lesopark\captcha\captcha\bin\Debug\captcha.exe.config
+E:\soursevs2022\lesopark\captcha\captcha\bin\Debug\captcha.exe
+E:\soursevs2022\lesopark\captcha\captcha\bin\Debug\captcha.pdb
+E:\soursevs2022\lesopark\captcha\captcha\obj\Debug\captcha.csproj.AssemblyReference.cache
+E:\soursevs2022\lesopark\captcha\captcha\obj\Debug\captcha.csproj.SuggestedBindingRedirects.cache
+E:\soursevs2022\lesopark\captcha\captcha\obj\Debug\captcha.Form1.resources
+E:\soursevs2022\lesopark\captcha\captcha\obj\Debug\captcha.Properties.Resources.resources
+E:\soursevs2022\lesopark\captcha\captcha\obj\Debug\captcha.csproj.GenerateResource.cache
+E:\soursevs2022\lesopark\captcha\captcha\obj\Debug\captcha.csproj.CoreCompileInputs.cache
+E:\soursevs2022\lesopark\captcha\captcha\obj\Debug\captcha.exe
+E:\soursevs2022\lesopark\captcha\captcha\obj\Debug\captcha.pdb
